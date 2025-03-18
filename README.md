@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Name:MUTHU POORNIMA P
+### Register no:212224240099
+### Study of basic gates
 
 **AIM:** 
 
@@ -63,17 +65,27 @@ Y= A⊕B
 
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/06aa4279-ab3e-41c3-ac81-c4bb6a19f4b6)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+
+Program for logic gates and verify its truth table in quartus using Verilog programming.
  
 **Logic symbol & Truthtable**
+![image](https://github.com/user-attachments/assets/c13ce5f8-fb39-4c24-87b1-28cd0294e2b4)
+
 
 **RTL realization Output:** 
 
+![image](https://github.com/user-attachments/assets/aff7ec32-a64f-4cb7-b5da-8645882c2b13)
+
+
 **RTL**
 
-**Result:**
+![image](https://github.com/user-attachments/assets/9974cc8b-a3c4-4b50-934a-55c979a69c60)
 
+
+
+**Result:**
+Implementing the truth table of logic gates using Verilog programming in Quartus II.
 
